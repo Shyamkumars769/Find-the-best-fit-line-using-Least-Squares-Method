@@ -55,7 +55,6 @@ plt.plot(X,Y_line)
 plt.show()
 ```
 ## Output:
-![best fit line](sam.png)
 ![image](https://github.com/user-attachments/assets/98619fcb-49ed-4705-a3c1-c599269ff271)
 ![image](https://github.com/user-attachments/assets/e7c6bcda-8a5d-4d5b-90f1-d3d0ce53ac8e)
 
